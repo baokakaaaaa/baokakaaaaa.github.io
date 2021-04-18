@@ -10,6 +10,6 @@ h1, h2, h3, h4, h5, h6, .h1, h2, h3, .h4, .h5, .h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 .bg-primary{
-	background-color:#eb8de5!important;
+	background-color:#6b0005!important;
 	background-image:url(../assets/img/crossword.png);
 }
